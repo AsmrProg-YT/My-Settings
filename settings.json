@@ -1,0 +1,9 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 3,
+    "editor.find.cursorMoveOnType": true,
+    "editor.fontFamily": "Cascadia code",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "vs-seti"
+}
