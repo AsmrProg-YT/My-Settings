@@ -1,0 +1,23 @@
+{
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		// Can't find Beautify on the visual studio marketplace what I find is [this](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) but it's deprecated
+		"adpyke.codesnap", // CodeSnap
+		"usernamehw.errorlens", // Error Lens
+		"solnurkarim.html-to-css-autocompletion", // HTML-to-CSS-autocompletion
+		"VisualStudioExptTeam.vscodeintellicode", // Intellicode
+		"vscode-icons-team.vscode-icons", // VSCode Icons
+		"ritwickdey.LiveServer", // Live Server
+		"ms-vscode.live-server", // Live Preview
+		"s-nlf-fh.glassit", // Glassit-VSC
+		"teabyii.ayu", // Ayu Theme
+		"ankitcode.firefly", // Firefly Theme
+		"guilhermerodz.omni-owl", // Omini Owl Theme
+		"barrsan.reui", // Reui Theme
+		"ahmadawais.shades-of-purple" // Shade of Purple Theme
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
